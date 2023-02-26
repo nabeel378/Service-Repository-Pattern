@@ -1,0 +1,8 @@
+enum COMMISSION_PAID_TO {
+    VENDOR = "VENDOR",
+    COMPANY = "COMPANY"
+}
+
+export {
+    COMMISSION_PAID_TO
+}
